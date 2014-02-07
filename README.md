@@ -2,10 +2,8 @@
 
 ### Desenvolvimento
 
-- `$ node start.js` para rodar localmente a aplicação;
-
-GruntJS Taks para auto reload do Chrome: 
-- Mantendo o Chrome aberto em localhost:3000 
+GruntJS Taks para auto reload do Chrome e subir servidor local:
+- Abra o Chrome em localhost:3000 
 - `$ grunt`;
 
 ### Tech Stack
