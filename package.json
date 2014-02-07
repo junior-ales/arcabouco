@@ -1,5 +1,5 @@
 {
-  "name": "techseg",
+  "name": "arcabouco",
   "version": "0.0.0",
   "engines": {
     "node": "0.10.x",
@@ -8,10 +8,8 @@
   "dependencies": {
     "bower": "~1.2.8",
     "express": "~3.4.7",
-    "zombie": "*",
     "ejs": "~0.8.5",
     "logfmt": "*",
-    "request": "2.33.0",
     "node-sass": "~0.8.1"
   },
   "devDependencies": {
@@ -24,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/junior-ales/techseg.git"
+    "url": "https://github.com/junior-ales/arcabouco.git"
   },
   "author": "Junior Ales <http://about.me/juniorales>",
   "license": "BSD-2-Clause",
-  "homepage": "https://github.com/junior-ales/techseg",
-  "description": "Site da Tech Seg Consultoria",
+  "homepage": "https://github.com/junior-ales/arcabouco",
+  "description": "Arcabouço para sites em JS/Node",
   "bugs": {
-    "url": "https://github.com/junior-ales/techseg/issues"
+    "url": "https://github.com/junior-ales/arcabouco/issues"
   },
   "scripts": {
     "postinstall": "./node_modules/bower/bin/bower install"

@@ -17,7 +17,7 @@ module.exports = function(grunt) {
       dist: {
         options: { style: 'expanded' },
         files: {
-          'public/css/tmp/techseg.css': path.join(__dirname,'sass','css','techseg.scss')
+          'public/css/tmp/arcabouco.css': path.join(__dirname,'sass','css','arcabouco.scss')
         }
       }
     },
