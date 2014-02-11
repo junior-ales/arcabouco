@@ -1,5 +1,13 @@
 # Arcabouço (framework) para todos os sites JS/Node/Express
 
+#TODO
+
+Criar script automatizado que faça o seguinte:
+* Clone o repositório;
+* Renomeie todos os arquivos e referências ao arcabouço;
+* Reinicie o repositório GIT;
+* Remova o próprio script;
+
 ### Desenvolvimento
 
 GruntJS Taks para auto reload do Chrome e subir servidor local:
